@@ -1,4 +1,4 @@
-# Gerenciador_de_Biblioteca
+# Gerenciador de biblioteca
 
 Implementação de um sistema de gerenciamento de biblioteca.  Usando os conhecimentos em padrões e principios de projetos orientado a objetos e programação orientada a objetos. 
 
